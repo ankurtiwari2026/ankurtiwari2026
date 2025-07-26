@@ -3,12 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurtiwari2026&label=Profile%20views&color=0e75b6&style=flat" alt="ankurtiwari2026" /> </p>
 
 <p align="center">  
+    <a href="https://leetcode.com/u/ankurtiwari0320/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+    <a href="https://www.geeksforgeeks.org/user/ankurtiwari0320/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"></a>
+    <a href="https://codolio.com/profile/ankurtiwari"><img src="https://img.shields.io/badge/-Codolio-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Codolio"></a>
+    <a href="https://github.com/ankurtiwari2026"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:ankurtiwari11120@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/ankurtiwari2026"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/ankur-tiwari26"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://codolio.com/profile/ankurtiwari"><img src="https://img.shields.io/badge/-Codolio-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Codolio"></a>
-  <a href="https://www.geeksforgeeks.org/user/ankurtiwari0320/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"></a>
 </p>
+
 
 ---
 
@@ -24,7 +26,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **800+ coding problems** on LeetCode (Java)
+- ✅ Solved **800+ coding problems** on LeetCode (Java and Python)
 - 🏅 **Top 50%** on LeetCode with a rating of **1400+**
 - ⭐ **5⭐ in Problem-Solving** on HackerRank
 
@@ -35,6 +37,7 @@
 ### 🧠 Languages & Databases
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
